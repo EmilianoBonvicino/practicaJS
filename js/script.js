@@ -1,3 +1,3 @@
 function boton() {
-    nombre = document.getElementById [entrada]
+    nombre = document.getElementById ("entrada");
 }
